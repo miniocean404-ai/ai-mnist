@@ -1,3 +1,3 @@
-from . import gpt, mnist
+from . import mnist
 
-__all__ = ["mnist", "gpt"]
+__all__ = ["mnist"]
